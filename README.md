@@ -1,4 +1,4 @@
-
+![Header](https://github.com/Afzal14786/Afzal14786/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Md Afzal Ansari</h1>
 <h3 align="center">I'm Currently Studying Computer Application</h3>
 
