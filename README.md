@@ -8,7 +8,7 @@
 
 - 🔭 Let's Learn With Me **DSA With C++**
 
-- 🌱 I’m Deepdive Into The World Of **DSA (Data Structure & Algorithm) Using C/C++, Java & OOPs Concepts**
+- 🌱 I’m Deepdive Into The World Of **DSA (Data Structure & Algorithm) Using C/C++ & OOPs Concepts**
 
 - 📫 How to Reach Me **mdafzal14777@outlook.com**
 
