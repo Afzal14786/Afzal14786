@@ -1,33 +1,97 @@
-![logo](https://github.com/Afzal14786/Afzal14786/blob/main/github-header-image.png)
-<h1 align="center">नमस्ते🙏 <br> I Am Afzal. </h1>
-<h3 align="center">I'm Currently Studying Computer Application</h3>
+<div align="center">
+  <h1>Hi There 👋, I'm Afzal</h1>
+  <h3>Aspiring Software Engineer | C++ & DSA Enthusiast</h3>
+</div>
 
-<img align="right" alt="coding" width="430px" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afzal14786&label=Profile%20views&color=0e75b6&style=flat" alt="afzal14786" /> </p>
+I'm a Computer Applications student from India, passionate about building efficient software solutions and solving complex problems. I am deeply focused on mastering Data Structures & Algorithms and exploring the world of backend development.
 
-- 🔭 Let's Learn With Me **DSA With C++**
-
-- 🌱 I’m Deepdive Into The World Of **DSA (Data Structure & Algorithm) Using C/C++ & OOPs Concepts**
-
-- 📫 How to Reach Me **mdafzal14777@outlook.com**
-
-- ⚡ Fun fact **By Me A Coffee ☕**
 <br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Connect with me:</h3>
+## 🎓 Education
+
+| Degree / Certificate                       | Details                                         |
+| ------------------------------------------ | ----------------------------------------------- |
+| **BCA (Bachelor of Computer Application)** <br> *Indira Gandhi National Open University* | Jan 2023 - Current                              |
+| **12th - Arts** <br> *T.N.B College Bhagalpur* | March 2020 - Apr 2022 <br> **Score: 81.40%** |
+| **10th** <br> *S.S. High School Mal Mandro* | Jan 2018 - Feb 2020 <br> **Score: 91.40%** |
+
+## 🚀 Projects / Experience
+
+<details>
+  <summary><b>Trading Platform</b></summary>
+  <br>
+  <em>June 2025 to July 2025</em>
+  <p><b>This Online Trading Platform</b> focused on building the user interface for a modern financial services landing page. With a design language inspired by industry leaders like Zerodha, this application was created to sharpen skills in front-end technologies.</p>
+  <p><i>The project emphasizes responsive design and a clean, functional layout, built entirely with ReactJS.</i>
+</p>
+  <b>Technologies Used :</b> &nbsp;<b><i> ReactJS, HTML5, CSS3, JavaScript</i></b>
+  <br>
+  <a href="https://github.com/Afzal14786/Trading-Platform" target="_blank">View Project</a>
+</details>
+
+<details>
+  <summary><b>Airbnb</b></summary>
+  <br>
+  <em>Apr 2025 to Apr 2025</em>
+  <p>A complete MERN-stack inspired web application that mimics the core functionality of a vacation rental marketplace like Airbnb. This project features a robust RESTful API built with Node.js/Express and a dynamic, server-rendered front-end using EJS. Key features include user authentication, full CRUD operations for property listings, and the ability for users to post reviews.
+</p>
+  <b>Technologies Used :</b> &nbsp;<b><i> ReactJS, expressJS, mongoDB, ejs, HTML5, CSS3, JavaScript</i></b>
+  <br>
+  <a href="https://github.com/Afzal14786/Airbnb" target="_blank">View Project</a>
+</details>
+
+<details>
+  <summary><b>🎵 Static Spotify UI Project</b></summary>
+  <br>
+  <em>Feb 2025 to Mid Feb-2025</em>
+  <p>This is a static front-end project that visually recreates the user interface of the Spotify web player. Built using only HTML5 and CSS3, the goal was to precisely replicate a complex, real-world layout and practice advanced styling techniques.</p>
+  <b>Technologies Used :</b> &nbsp;<b><i> HTML, CSS</i></b>
+  <br>
+  <a href="https://github.com/Afzal14786/Spotify-Clone" target="_blank">View Project</a>
+</details>
+
+<br>
+
+## 🛠️ Skills
+
 <p align="left">
-<a href="https://twitter.com/afzal_bca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="afzal_bca" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-afjal-369147266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-afjal-369147266/" height="30" width="40" /></a>
-<a href="https://fb.com/afzal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afzal" height="30" width="40" /></a>
-<a href="https://instagram.com/mdafzal14786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdafzal14786" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/mdafzal14777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mdafzal14777/" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afzal14786&show_icons=true&locale=en&layout=compact" alt="afzal14786" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afzal14786&show_icons=true&locale=en" alt="afzal14786" /></p>
+## 🔗 Social Media Links
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afzal14786&" alt="afzal14786" /></p>
+<p align="left">
+  <a href="https://github.com/afzal14786" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/ansari_afzal/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://linkedin.com/in/mdafzal14786" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/mdafzal14786" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://facebook.com/mdafzal14786" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
+
+---
+
+## 📫 How to reach me:
+
+- **Email :** <a href="mailto:mdafzal14777@outlook.com">mdafzal14777@outlook.com</a>
