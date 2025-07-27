@@ -10,46 +10,38 @@ I'm a Computer Applications student from India, passionate about building effici
 
 ## 🎓 Education
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <strong>BCA (Bachelor of Computer Application)</strong><br>
-      <em>Indira Gandhi National Open University</em>
-    </td>
-    <td align="right">
-      <em>Jan 2023 - Current</em>
-    </td>
-  </tr>
-</table>
-
----
-
-<table width="100%">
-  <tr>
-    <td align="left">
-      <strong>12th - Arts</strong><br>
-      <em>T.N.B College Bhagalpur Bihar</em>
-    </td>
-    <td align="right">
-      <em>March 2020 - Apr 2022</em><br>
-      <strong>Score: 81.40%</strong>
-    </td>
-  </tr>
-</table>
-
----
-
-<table width="100%">
-  <tr>
-    <td align="left">
-      <strong>10th</strong><br>
-      <em>S.S. High School Mal Mandro Home Town</em>
-    </td>
-    <td align="right">
-      <em>Jan 2018 - Feb 2020</em><br>
-      <strong>Score: 91.40%</strong>
-    </td>
-  </tr>
+<table width="85%" border="0">
+  <tbody>
+    <tr>
+      <td align="left" valign="top">
+        <strong>BCA (Bachelor of Computer Application)</strong><br>
+        <em>Indira Gandhi National Open University</em>
+      </td>
+      <td align="right" valign="top">
+        <em>Jan 2023 - Current</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" valign="top" style="padding-top: 20px;">
+        <strong>12th - Arts</strong><br>
+        <em>T.N.B College Bhagalpur Bihar</em>
+      </td>
+      <td align="right" valign="top" style="padding-top: 20px;">
+        <em>March 2020 - Apr 2022</em><br>
+        <strong>Score: 81.40%</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" valign="top" style="padding-top: 20px;">
+        <strong>10th</strong><br>
+        <em>S.S. High School Mal Mandro Home Town</em>
+      </td>
+      <td align="right" valign="top" style="padding-top: 20px;">
+        <em>Jan 2018 - Feb 2020</em><br>
+        <strong>Score: 91.40%</strong>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ## 🚀 Projects / Experience
