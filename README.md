@@ -100,7 +100,7 @@ I'm a Computer Applications student from India, passionate about building effici
 
 ## 🔗 Social Media Links
 
-<p align="left">
+<p align="left" style="color: inherit; text-decoration: none;">
   <a href="https://github.com/afzal14786" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -117,8 +117,6 @@ I'm a Computer Applications student from India, passionate about building effici
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
-
----
 
 ## 📫 How to reach me:
 
