@@ -10,11 +10,47 @@ I'm a Computer Applications student from India, passionate about building effici
 
 ## 🎓 Education
 
-| Degree / Certificate                       | Details                                         |
-| ------------------------------------------ | ----------------------------------------------- |
-| **BCA (Bachelor of Computer Application)** <br> *Indira Gandhi National Open University* | Jan 2023 - Current                              |
-| **12th - Arts** <br> *T.N.B College Bhagalpur* | March 2020 - Apr 2022 <br> **Score: 81.40%** |
-| **10th** <br> *S.S. High School Mal Mandro* | Jan 2018 - Feb 2020 <br> **Score: 91.40%** |
+<table width="100%">
+  <tr>
+    <td align="left">
+      <strong>BCA (Bachelor of Computer Application)</strong><br>
+      <em>Indira Gandhi National Open University</em>
+    </td>
+    <td align="right">
+      <em>Jan 2023 - Current</em>
+    </td>
+  </tr>
+</table>
+
+---
+
+<table width="100%">
+  <tr>
+    <td align="left">
+      <strong>12th - Arts</strong><br>
+      <em>T.N.B College Bhagalpur Bihar</em>
+    </td>
+    <td align="right">
+      <em>March 2020 - Apr 2022</em><br>
+      <strong>Score: 81.40%</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+<table width="100%">
+  <tr>
+    <td align="left">
+      <strong>10th</strong><br>
+      <em>S.S. High School Mal Mandro Home Town</em>
+    </td>
+    <td align="right">
+      <em>Jan 2018 - Feb 2020</em><br>
+      <strong>Score: 91.40%</strong>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Projects / Experience
 
