@@ -83,41 +83,43 @@ I'm a Computer Applications student from India, passionate about building effici
 
 ## 🛠️ Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=white" alt="React.js"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
+### 🚀 Core Fundamentals
+![Data Structures & Algorithms](https://img.shields.io/badge/DSA-%23323330.svg?style=plastic&logo=c&logoColor=%23A8B9CC)
+![System Design](https://img.shields.io/badge/System%20Design-%23323330.svg?style=plastic&logo=google&logoColor=%234285F4)
 
-<br>
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-%23323330.svg?style=plastic&logo=c%2B%2B&logoColor=%2300599C)
+![C](https://img.shields.io/badge/C-%23323330.svg?style=plastic&logo=c&logoColor=%23A8B9CC)
+![Java](https://img.shields.io/badge/Java-%23323330.svg?style=plastic&logo=openjdk&logoColor=%23ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+
+### 🌐 Frontend Development
+![React](https://img.shields.io/badge/React-%23323330.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-%23323330.svg?style=plastic&logo=html5&logoColor=%23E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-%23323330.svg?style=plastic&logo=css3&logoColor=%231572B6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%23323330.svg?style=plastic&logo=tailwindcss&logoColor=%2306B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23323330.svg?style=plastic&logo=bootstrap&logoColor=%237952B3)
+
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-%23323330.svg?style=plastic&logo=node.js&logoColor=%23339933)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23323330.svg?style=plastic&logo=mongodb&logoColor=%2347A248)
+![SQL](https://img.shields.io/badge/SQL-%23323330.svg?style=plastic&logo=postgresql&logoColor=%234169E1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23323330.svg?style=plastic&logo=postgresql&logoColor=%234169E1)
+![Express.js](https://img.shields.io/badge/Express.js-%23323330.svg?style=plastic&logo=express&logoColor=white)
+
+### 🛠️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-%23323330.svg?style=plastic&logo=docker&logoColor=%232496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23323330.svg?style=plastic&logo=kubernetes&logoColor=%23326CE5)
+![CI/CD](https://img.shields.io/badge/CI/CD-%23323330.svg?style=plastic&logo=githubactions&logoColor=%232088FF)
+
 
 ## 🔗 Social Media Links
 
-<p align="left" style="color: inherit; text-decoration: none;">
-  <a href="https://github.com/afzal14786" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://leetcode.com/ansari_afzal/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://linkedin.com/in/mdafzal14786" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/mdafzal14786" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://facebook.com/mdafzal14786" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-</p>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mdafzal14786)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdafzal14786)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/mdafzal14786)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=black")](https://leetcode.com/ansari_afzal)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white")](https://facebook.com/mdafzal14786)
 
 ## 📫 How to reach me:
 
@@ -125,3 +127,7 @@ I'm a Computer Applications student from India, passionate about building effici
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afzal14786&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afzal14786&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- buy me a coffee -->
+<a href="https://buymeacoffee.com/mdafzal14786" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 120px !important;" ></a>
