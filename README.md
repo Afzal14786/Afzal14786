@@ -83,34 +83,9 @@ I'm a Computer Applications student from India, passionate about building effici
 
 ## 🛠️ Skills
 
-### 🚀 Core Fundamentals
-![Data Structures & Algorithms](https://img.shields.io/badge/DSA-%23323330.svg?style=plastic&logo=c&logoColor=%23A8B9CC)
-![System Design](https://img.shields.io/badge/System%20Design-%23323330.svg?style=plastic&logo=google&logoColor=%234285F4)
-
-### 💻 Languages
-![C++](https://img.shields.io/badge/C++-%23323330.svg?style=plastic&logo=c%2B%2B&logoColor=%2300599C)
-![C](https://img.shields.io/badge/C-%23323330.svg?style=plastic&logo=c&logoColor=%23A8B9CC)
-![Java](https://img.shields.io/badge/Java-%23323330.svg?style=plastic&logo=openjdk&logoColor=%23ED8B00)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-
-### 🌐 Frontend Development
-![React](https://img.shields.io/badge/React-%23323330.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-%23323330.svg?style=plastic&logo=html5&logoColor=%23E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-%23323330.svg?style=plastic&logo=css3&logoColor=%231572B6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%23323330.svg?style=plastic&logo=tailwindcss&logoColor=%2306B6D4)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23323330.svg?style=plastic&logo=bootstrap&logoColor=%237952B3)
-
-### ⚙️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-%23323330.svg?style=plastic&logo=node.js&logoColor=%23339933)
-![MongoDB](https://img.shields.io/badge/MongoDB-%23323330.svg?style=plastic&logo=mongodb&logoColor=%2347A248)
-![SQL](https://img.shields.io/badge/SQL-%23323330.svg?style=plastic&logo=postgresql&logoColor=%234169E1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23323330.svg?style=plastic&logo=postgresql&logoColor=%234169E1)
-![Express.js](https://img.shields.io/badge/Express.js-%23323330.svg?style=plastic&logo=express&logoColor=white)
-
-### 🛠️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-%23323330.svg?style=plastic&logo=docker&logoColor=%232496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23323330.svg?style=plastic&logo=kubernetes&logoColor=%23326CE5)
-![CI/CD](https://img.shields.io/badge/CI/CD-%23323330.svg?style=plastic&logo=githubactions&logoColor=%232088FF)
+| Core Fundamentals | Programming Languages | Frontend Development | Backend Development | DevOps |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Data Structures & Algorithms](https://img.shields.io/badge/DSA-%23323330.svg?style=plastic&logo=c&logoColor=%23A8B9CC) <br> ![System Design](https://img.shields.io/badge/System%20Design-%23323330.svg?style=plastic&logo=google&logoColor=%234285F4) | ![C](https://img.shields.io/badge/C-%23323330.svg?style=plastic&logo=c&logoColor=%23A8B9CC) <br> ![C++](https://img.shields.io/badge/C++-%23323330.svg?style=plastic&logo=c%2B%2B&logoColor=%2300599C) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) <br> ![Java](https://img.shields.io/badge/Java-%23323330.svg?style=plastic&logo=openjdk&logoColor=%23ED8B00) | ![HTML5](https://img.shields.io/badge/HTML5-%23323330.svg?style=plastic&logo=html5&logoColor=%23E34F26) <br> ![CSS3](https://img.shields.io/badge/CSS3-%23323330.svg?style=plastic&logo=css3&logoColor=%231572B6) <br> ![React](https://img.shields.io/badge/React-%23323330.svg?style=plastic&logo=react&logoColor=%2361DAFB) <br> ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%23323330.svg?style=plastic&logo=tailwindcss&logoColor=%2306B6D4) <br> ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23323330.svg?style=plastic&logo=bootstrap&logoColor=%237952B3) | ![Express.js](https://img.shields.io/badge/Express.js-%23323330.svg?style=plastic&logo=express&logoColor=white) <br> ![Node.js](https://img.shields.io/badge/Node.js-%23323330.svg?style=plastic&logo=node.js&logoColor=%23339933) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-%23323330.svg?style=plastic&logo=mongodb&logoColor=%2347A248) <br> ![SQL](https://img.shields.io/badge/SQL-%23323330.svg?style=plastic&logo=postgresql&logoColor=%234169E1) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23323330.svg?style=plastic&logo=postgresql&logoColor=%234169E1) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23323330.svg?style=plastic&logo=kubernetes&logoColor=%23326CE5) <br> ![Docker](https://img.shields.io/badge/Docker-%23323330.svg?style=plastic&logo=docker&logoColor=%232496ED) <br> ![CI/CD](https://img.shields.io/badge/CI/CD-%23323330.svg?style=plastic&logo=githubactions&logoColor=%232088FF) |
 
 
 ## 🔗 Social Media Links
