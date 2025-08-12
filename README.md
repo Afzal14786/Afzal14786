@@ -95,6 +95,7 @@ I'm a Computer Applications student from India, passionate about building effici
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/mdafzal14786)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=black")](https://leetcode.com/ansari_afzal)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white")](https://facebook.com/mdafzal14786)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/mdafzal14786)
 
 ## 📫 How to reach me:
 
