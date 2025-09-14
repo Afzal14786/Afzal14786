@@ -47,16 +47,72 @@ I'm a Computer Applications student from India, passionate about building effici
 ## 🚀 Projects / Experience
 
 <details>
-  <summary><b>Trading Platform</b></summary>
+  <summary><b>FinVista 📈</b></summary>
   <br>
-  <em>June 2025 to July 2025</em>
-  <p><b>This Online Trading Platform</b> focused on building the user interface for a modern financial services landing page. With a design language inspired by industry leaders like Zerodha, this application was created to sharpen skills in front-end technologies.</p>
-  <p><i>The project emphasizes responsive design and a clean, functional layout, built entirely with ReactJS.</i>
+  <em>September 2025 to Aug 2025</em>
+  <p><b>FinVista</b> is a meticulously crafted web application that emulates the sophisticated and clean user interface of leading <b>financial technology (fintech)</b> platforms. This project is a hands-on demonstration of my <b>full-stack development</b> capabilities, focusing on a <b><i>multi-layered authentication flow, real-time data handling, and a high-fidelity, dynamic user experience.</i></b></p>
 </p>
-  <b>Technologies Used :</b> &nbsp;<b><i> ReactJS, HTML5, CSS3, JavaScript</i></b>
+
+  <b>Technologies Used :</b> &nbsp;
   <br>
-  <a href="https://github.com/Afzal14786/Trading-Platform" target="_blank">View Project</a>
+  <b>Frontend</b> <br>
+  <ul>
+    <li><b>ReactJS</b> : The core of the application's user interface, leveraging a component-based architecture for modular, reusable, and scalable code.</li>  
+    <li><b>Bootstrap</b> : Utilized for its powerful responsive grid system and pre-built components, ensuring a visually consistent and mobile-friendly design.</li>  
+    <li><b>Tailwind CSS : </b>Used for advanced, utility-first styling to achieve a polished, pixel-perfect look that mirrors industry-standard designs.</li>
+    <li><b>JavaScript : </b>Powers all interactive elements and dynamic content, providing a smooth and engaging user experience.</li>
+  </ul>
+
+  <b>Backend</b>  
+  <ul>
+    <li><b>Node.js : </b> The JavaScript runtime environment that provides a scalable and high-performance backend.</li>
+    <li><b>Express.js : </b> A minimal and flexible Node.js web application framework used to build robust API endpoints and manage server-side logic.</li>
+    <li><b>MongoDB : </b> A powerful NoSQL database used for flexible and scalable data storage, including user profiles, watchlists, and other application data.</li>
+    <li><b>Mongoose : </b> An Object Data Modeling (ODM) library for MongoDB and Node.js, providing a straightforward way to interact with the database.</li>
+    <li><b>Firebase Authentication : </b> A highly secure and easy-to-use authentication service that handles the critical SMS and email OTP verification steps, ensuring a robust and reliable user sign-in process.</li>
+    <li><b>Redis DB : </b> An in-memory data store used for caching and managing short-lived data, such as OTPs and temporary session tokens, significantly improving authentication speed and overall performance.</li>
+  </ul>
+  <br>
+  <a href="https://finvista-trading-frontend.onrender.com/" target="_blank">View Live</a>
+  <br>
+  <a href="https://github.com/Afzal14786/Trading-Platform" target="_blank">View Project Repository</a>
 </details>
+
+<!-- dashboard -->
+
+<details>
+  <summary><b>FinVista Dashboard (kite) 📊</b></summary>
+  <br>
+  <em>September 2025 to Aug 2025</em>
+  <p><b>The Finvista Dashboard<b/> is a dynamic, user-centric web application designed to provide a comprehensive overview of <i>financial markets<i/> and <b>personal investment performance.<b/> Built as a core component of a <b>MERN-stack trading platform<b/>, the dashboard is a web based application that connects to a the backend to deliver <b>real-time stock data, manage user holdings, and provide a secure, personalized environment for financial tracking.<b/> Its intuitive design focuses on <b>clarity and accessibility<b/>, making complex financial data easy to understand and interact with.</p>
+</p>
+
+  <b>Technologies Used :</b> &nbsp;
+  <br>
+  <b>Frontend (Dashboard)</b> <br>
+  <ul>
+    <li><b>ReactJS</b> : Component-based UI.</li>  
+    <li><b>Tailwind CSS</b> : Utility-first styling</li>  
+    <li><b>Chart.js : </b>Interactive stock charts.</li>
+    <li><b>Axios : </b>API communication with backend.</li>
+  </ul>
+
+  <b>Backend</b>  
+  <ul>
+    <li><b>Node.js : </b> The JavaScript runtime environment that provides a scalable and high-performance backend.</li>
+    <li><b>Express.js : </b> A minimal and flexible Node.js web application framework used to build robust API endpoints and manage server-side logic.</li>
+    <li><b>MongoDB : </b> A powerful NoSQL database used for flexible and scalable data storage, including user profiles, watchlists, and other application data.</li>
+    <li><b>Mongoose : </b> An Object Data Modeling (ODM) library for MongoDB and Node.js, providing a straightforward way to interact with the database.</li>
+    <li><b>Firebase Authentication : </b> A highly secure and easy-to-use authentication service that handles the critical SMS and email OTP verification steps, ensuring a robust and reliable user sign-in process.</li>
+    <li><b>Redis DB : </b> An in-memory data store used for caching and managing short-lived data, such as OTPs and temporary session tokens, significantly improving authentication speed and overall performance.</li>
+  </ul>
+  <br>
+  <a href="https://finvista-trading-dashboard.onrender.com/" target="_blank">View Live</a>
+  <br>
+  <a href="https://github.com/Afzal14786/trading-dashboard" target="_blank">View Project Repository</a>
+</details>
+
+<!-- dashboard end -->
 
 <details>
   <summary><b>Airbnb</b></summary>
