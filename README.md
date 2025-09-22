@@ -49,7 +49,7 @@ I'm a Computer Applications student from India, passionate about building effici
 <details>
   <summary><b>FinVista 📈</b></summary>
   <br>
-  <em>September 2025 to Aug 2025</em>
+  <em>Aug 2025 To Sept 2025</em>
   <p><b>FinVista</b> is a meticulously crafted web application that emulates the sophisticated and clean user interface of leading <b>financial technology (fintech)</b> platforms. This project is a hands-on demonstration of my <b>full-stack development</b> capabilities, focusing on a <b><i>multi-layered authentication flow, real-time data handling, and a high-fidelity, dynamic user experience.</i></b></p>
 </p>
 
@@ -83,7 +83,7 @@ I'm a Computer Applications student from India, passionate about building effici
 <details>
   <summary><b>FinVista Dashboard (kite) 📊</b></summary>
   <br>
-  <em>September 2025 to Aug 2025</em>
+  <em>Aug 2025 To Sept 2025</em>
   <p><b>The Finvista Dashboard<b/> is a dynamic, user-centric web application designed to provide a comprehensive overview of <i>financial markets<i/> and <b>personal investment performance.<b/> Built as a core component of a <b>MERN-stack trading platform<b/>, the dashboard is a web based application that connects to a the backend to deliver <b>real-time stock data, manage user holdings, and provide a secure, personalized environment for financial tracking.<b/> Its intuitive design focuses on <b>clarity and accessibility<b/>, making complex financial data easy to understand and interact with.</p>
 </p>
 
