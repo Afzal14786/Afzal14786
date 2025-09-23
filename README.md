@@ -161,6 +161,3 @@ I'm a Computer Applications student from India, passionate about building effici
 [![Md Afzal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afzal14786&show_icons=true&theme=radical)](https://github.com/Afzal14786/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afzal14786&layout=compact&theme=vision-friendly-dark)](https://github.com/Afzal14786/github-readme-stats)
 
-
-<!-- buy me a coffee -->
-<a href="https://buymeacoffee.com/mdafzal14786" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 120px !important;" ></a>
