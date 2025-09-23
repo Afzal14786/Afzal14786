@@ -84,7 +84,7 @@ I'm a Computer Applications student from India, passionate about building effici
   <summary><b>FinVista Dashboard (kite) 📊</b></summary>
   <br>
   <em>Aug 2025 To Sept 2025</em>
-  <p><b>The Finvista Dashboard<b/> is a dynamic, user-centric web application designed to provide a comprehensive overview of <i>financial markets<i/> and <b>personal investment performance.<b/> Built as a core component of a <b>MERN-stack trading platform<b/>, the dashboard is a web based application that connects to a the backend to deliver <b>real-time stock data, manage user holdings, and provide a secure, personalized environment for financial tracking.<b/> Its intuitive design focuses on <b>clarity and accessibility<b/>, making complex financial data easy to understand and interact with.</p>
+  <p><b>The Finvista Dashboard</b> is a dynamic, user-centric web application designed to provide a comprehensive overview of <i>financial markets</i> and <b>personal investment performance.</b> Built as a core component of a <b>MERN-stack trading platform</b>, the dashboard is a web based application that connects to a the backend to deliver <b>real-time stock data, manage user holdings, and provide a secure, personalized environment for financial tracking.</b> Its intuitive design focuses on <b>clarity and accessibility</b>, making complex financial data easy to understand and interact with.</p>
 </p>
 
   <b>Technologies Used :</b> &nbsp;
