@@ -160,6 +160,7 @@ I'm a Computer Applications student from India, passionate about building effici
 
 ### 📊 GitHub Stats
 
-[![Md Afzal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afzal14786&show_icons=true&theme=radical)](https://github.com/Afzal14786)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afzal14786&layout=compact&theme=vision-friendly-dark)](https://github.com/Afzal14786)
+![Afzal14786's Stats](https://github-readme-stats.vercel.app/api?username=Afzal14786&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Afzal14786's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Afzal14786&theme=vue-dark&hide_border=true)
+![Afzal14786's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afzal14786&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
