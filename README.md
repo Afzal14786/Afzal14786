@@ -63,7 +63,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Snake Animation" />
 </div>
 
-## 🚀 Projects Showcase
+## 🚀 Projects Showcase & Experiance
 
 <details>
   <summary><b>FinVista (Fintech UI) 📈</b></summary>
@@ -122,9 +122,9 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Snake Animation" />
 </div>
 
+## 🎓 Education 
+
 <div align="center">
-  
-## 🎓 GFG Progress
 
 | Degree | Institute | Timeline | Score |
 | :--- | :--- | :--- | :--- |
