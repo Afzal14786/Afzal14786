@@ -122,13 +122,17 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Snake Animation" />
 </div>
 
-## 🎓 Education
+<div align="center">
+  
+## 🎓 GFG Progress
 
 | Degree | Institute | Timeline | Score |
 | :--- | :--- | :--- | :--- |
 | **BCA** (Computer Application) | Indira Gandhi National Open University | *Jan 2023 - Present* | - |
 | **12th** (Arts) | T.N.B College Bhagalpur, Bihar | *2020 - 2022* | **81.40%** |
 | **10th** | S.S. High School Mal Mandro | *2018 - 2020* | **91.40%** |
+
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Snake Animation" />
