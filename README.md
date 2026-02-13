@@ -15,7 +15,9 @@
 
 I'm a **Computer Applications student** from India, passionate about building efficient software solutions and solving complex problems. I am deeply focused on mastering **Data Structures & Algorithms** and exploring the world of **Backend Engineering**.
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Snake Animation" />
+</div>
 
 <p><img src="https://media.giphy.com/media/QVz8bVdhi6dmkIkg61/giphy.gif" width="40" align="absmiddle" /> <b>Tech Stack & Skills</b></p>
 
@@ -31,7 +33,9 @@ I'm a **Computer Applications student** from India, passionate about building ef
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Snake Animation" />
+</div>
 
 <p><img src="assets/GojoFingerGuns.png" alt="Cat GIF" width="35"><b>Current Focus & Recent Work</b></p>
 
@@ -55,7 +59,9 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 * **Topics Covered:** Graph Algorithms (Dijkstra, Prim's), Dynamic Programming, Trees (AVL, BST), Tries, and Linked Lists.
 * **Patterns:** Sliding Window, Two Pointers, Backtracking, and Bit Manipulation.
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Snake Animation" />
+</div>
 
 ## 🚀 Projects Showcase
 
@@ -92,7 +98,9 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
   <a href="https://github.com/Afzal14786/Airbnb" target="_blank">💻 View Code</a>
 </details>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Snake Animation" />
+</div>
 
 ## 🧩 LeetCode Progress
 
@@ -102,7 +110,9 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
   </a>
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Snake Animation" />
+</div>
 
 ## 🎓 Education
 
@@ -112,7 +122,9 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | **12th** (Arts) | T.N.B College Bhagalpur, Bihar | *2020 - 2022* | **81.40%** |
 | **10th** | S.S. High School Mal Mandro | *2018 - 2020* | **91.40%** |
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Snake Animation" />
+</div>
 
 <h3>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtjNHp5a3BtYW1saXFyODUycjdjNHJ2OTRvdGJlY2tpbGk3amhrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkW0maGDN1eSc/giphy.gif"
@@ -152,7 +164,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Snake Animation" />
 </div>
 
-<div align="left">
+<div align="center">
   <h2><b>👀 Visitor Count</b></h2>
   <img src="https://count.getloli.com/@Afzal14786?theme=booru-huggboo" alt="Md Afzal" />
 </div>
