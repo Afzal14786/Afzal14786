@@ -110,6 +110,14 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
   </a>
 </div>
 
+## 🧩 GFG Progress 
+
+<div align="center">
+  <a href="[https://geeksforgeeks.org/user/iamafzal/">
+    <img src="https://gfgstatscard.vercel.app/iamafzal?theme=dark" alt="GFG Stats" />
+  </a>
+</div>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Snake Animation" />
 </div>
