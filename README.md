@@ -1,14 +1,14 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+There+👋,+I'm+Afzal;Aspiring+Software+Engineer;C%2B%2B+%26+DSA+Enthusiast;MERN+Stack+Developer" alt="Typing SVG" />
-  
   <p>
-    <a href="https://leetcode.com/u/0x4f5a4c/">
-      <img src="https://img.shields.io/badge/dynamic/json?style=social&label=SOLVED&query=totalSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2F0x4f5a4c&logo=leetcode&logoColor=FFA116" alt="LeetCode Solved Count" />
-    </a>
-    <a href="mailto:mdafzal14777@gmail.com">
-      <img src="https://img.shields.io/badge/Email-mdafzal14777-blue?style=social&logo=gmail&logoColor=36BCF7" alt="Email" />
-    </a>
-  </p>
+  <a href="https://leetcode.com/0x4f5a4c/">
+    <img src="https://img.shields.io/badge/dynamic/json?style=social&label=LeetCode&query=$.totalSolved&url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2F0x4f5a4c&logo=leetcode&logoColor=yellow" alt="LeetCode Solved Count" />
+  </a>
+  
+  <a href="mailto:mdafzal14777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mdafzal14777-blue?style=social&logo=gmail&logoColor=36BCF7" alt="Email" />
+  </a>
+</p>
 </div>
 
 <br />
