@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/gojo-banner.png" alt="Satoru Gojo Banner" width="100%" />
+  <img src="assets/satoru-gojo-black.png" alt="Satoru Gojo Banner" width="100%" />
   <br />
   <br />
   <h1>Hi, I'm Afzal Ansari 👋</h1>
