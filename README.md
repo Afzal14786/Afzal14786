@@ -44,7 +44,7 @@ A production-ready backend engine designed for a high-concurrency social bloggin
     * **Security & Performance:** Custom bot-interceptor middleware, Redis-backed rate limiting, and HTTP request logging.
     * **Relational Data Modeling:** Highly normalized PostgreSQL schema handling complex relationships (posts, hierarchical comments, likes, shares, and follows) strictly typed via Drizzle ORM.
 
-### **[Reshma (Core E-Commerce Backend)](#)**
+### **[Reshma (Core E-Commerce Backend)](https://github.com/afzal14786/reshma-core)**
 > *Lead Developer • B2C E-Commerce Platform*
 
 The core architectural backbone for a high-traffic B2C e-commerce platform. Engineered to handle a highly dynamic product catalog, secure payment lifecycles, and advanced user role management.
