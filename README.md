@@ -131,7 +131,7 @@ A comprehensive, actively maintained collection of Data Structures and Algorithm
 
 | LeetCode Mastery | GeeksForGeeks Mastery |
 | :---: | :---: |
-| <a href="https://leetcode.com/0x4f5a4c"><img src="https://leetcard.jacoblin.cool/iamafzal?ext=heatmap" alt="LeetCode Stats" /></a> | <a href="https://geeksforgeeks.org/user/iamafzal/"><img src="https://gfgstatscard.vercel.app/iamafzal?theme=dark" alt="GFG Stats" /></a> |
+| <a href="https://leetcode.com/iamafzal"><img src="https://leetcard.jacoblin.cool/iamafzal?ext=heatmap" alt="LeetCode Stats" /></a> | <a href="https://geeksforgeeks.org/user/iamafzal/"><img src="https://gfgstatscard.vercel.app/iamafzal?theme=dark" alt="GFG Stats" /></a> |
 
 <hr/>
 
