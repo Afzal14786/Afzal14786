@@ -128,9 +128,9 @@ A comprehensive, actively maintained collection of Data Structures and Algorithm
 ## Problem Solving & Algorithms Progress
 
 ### LeetCode Mastery 
-<a href="https://leetcode.com/u/0x4f5a4c/">
-  <img src="https://www.readmecodegen.com/api/leetcode-stats?username=0x4f5a4c&theme=tokyonight" alt="LeetCode Stats" />
-</a> 
+<a href="https://leetcode.com/u/0x4f5a4c/" target="_blank">
+  <img src="https://www.readmecodegen.com/api/leetcode-stats?username=0x4f5a4c&theme=monokai" alt="LeetCode Stats" />
+</a>
 
 <hr/>
 
