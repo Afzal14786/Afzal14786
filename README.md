@@ -8,7 +8,7 @@ Competitive Programming · Backend Development · Computer Science
 
 <br/>
 
-<a href="https://iamafzal-dev.vercel.app/">
+<a href="https://iamafzal.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-252525?style=flat&logo=vercel&logoColor=white&labelColor=111111" height="30" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/0x4f5a4c/">
@@ -143,7 +143,7 @@ Regular problem-solving practice focused on Data Structures & Algorithms, algori
 
 <div align="center">
 
-<a href="https://iamafzal-dev.vercel.app/">
+<a href="https://iamafzal.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=flat&logo=vercel&logoColor=white&labelColor=161B22" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/0x4f5a4c/">
