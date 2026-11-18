@@ -65,7 +65,9 @@ A social blogging platform supporting posts, long-form articles, social interact
 ![Redis](https://img.shields.io/badge/Redis-181717?style=flat-square&logo=redis)
 ![BullMQ](https://img.shields.io/badge/BullMQ-181717?style=flat-square)
 
-[Explore Repository →](https://github.com/Afzal14786/writespace)
+[Explore The Document →](https://writespace.gitbook.io/writespace-docs)  
+
+> _repository is private_
 
 <br/>
 
